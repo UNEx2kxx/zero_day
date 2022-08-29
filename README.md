@@ -1,1 +1,1 @@
-**This file is neccessary for this project** _Strong_
+**This file is neccessary for this project** __Strong__
